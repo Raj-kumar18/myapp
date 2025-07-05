@@ -74,8 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://www.instagram.com/_.priyans.hi_?igsh=MWMzaXMxMzhxNmN1ZA==
 
-
-Raj@#123kr
-
-
-Rajkumar188679
+rajkumar181868
